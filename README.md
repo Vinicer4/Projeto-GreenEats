@@ -1,4 +1,5 @@
 📄 README.md - Projeto de Aplicativo Mobile (GreenEats Delivery)
+
 📌 Visão Geral
 Este projeto consiste em um protótipo de alta fidelidade para um aplicativo de delivery de comida saudável (GreenEats), desenvolvido no Figma/Adobe XD. O foco principal foi criar uma interface intuitiva, com navegação fluida e design consistente, seguindo princípios de UI/UX.
 
